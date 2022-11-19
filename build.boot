@@ -10,7 +10,8 @@
                  [adzerk/boot-reload        "0.6.1"]
                  [adzerk/boot-cljs-repl     "0.4.0"]
                  [cider/piggieback          "0.5.3"]
-                 [weasel                    "0.7.1"]]
+                 [weasel                    "0.7.1"]
+                 [cljs-time                 "0.1.0"]]
  )
 
 (require '[adzerk.boot-cljs      :refer [cljs]]
