@@ -1,9 +1,0 @@
-(start-repl)
-ni'
-(js/alert "Hello, ClojureScript")
-(println "hihihi")
-:cljs/quit
-(js/alert "hi")
-(start-repl)
-(js/alert "hi")
-(println "hi")
