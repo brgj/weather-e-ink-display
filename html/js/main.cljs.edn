@@ -1,0 +1,2 @@
+{:require [weather-e-ink-display.core]
+ :compiler-options {:asset-path "js/main.out"}}
